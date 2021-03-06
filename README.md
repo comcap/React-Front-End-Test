@@ -1,4 +1,4 @@
-# Frontend Test - Vonder Thailand
+# Frontend Test
 
 ## Example data model
 ```
